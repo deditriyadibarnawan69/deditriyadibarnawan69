@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi I'm Dedi Triyadi Barnawan 👋
 
-<!--
+- 🔭 I’m currently working on Pinteraktif Media
+- 🌱 I’m currently learning Bash, Python Scripting
+
+<!-- 
 **deditriyadibarnawan69/deditriyadibarnawan69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
